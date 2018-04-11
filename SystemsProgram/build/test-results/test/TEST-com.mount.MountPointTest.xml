@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mount.MountPointTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-04-11T21:30:53" hostname="MACC02TV1GSG8WL" time="0.027">
+  <properties/>
+  <testcase name="getDiskUsageByLocation" classname="com.mount.MountPointTest" time="0.02"/>
+  <testcase name="getDiskUsage" classname="com.mount.MountPointTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Apr 11, 2018 4:30:53 PM com.mount.MountPointTest getDiskUsageByLocation
+INFO: 
+ Data :{"files":[{"src\/test\/java\/com\/mount\/MountPointIgnore.java":374262056},{"src\/test\/java\/com\/mount\/MountPointTest.java":374262056}]}
+Apr 11, 2018 4:30:53 PM com.mount.MountPointTest getDiskUsage
+INFO: 
+ Data :{"files":[{"\/ (\/dev\/disk1)":"112840408"},{"\/dev (devfs)":"182"},{"\/net (map -hosts)":"0"},{"\/home (map auto_home)":"0"},{"\/Network\/Servers (map -fstab)":"0"},{"\/private\/var\/folders\/sr\/pgmlx00d6sngh698h7dmmmfn72sykg\/T\/AppTranslocation\/EDB3BAF4-BE99-4C31-AE33-58149957866C (\/Applications\/HipChat.app)":"104237060"}]}
+]]></system-err>
+</testsuite>
